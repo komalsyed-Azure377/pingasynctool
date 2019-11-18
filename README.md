@@ -1,8 +1,7 @@
-# pingasynctool
 
 # PingTool
 Ping Tool
 
 
-[![Build Status](https://dev.azure.com/airband/Network%20Monitoring%20for%20ISPs/_apis/build/status/kyaaqba.PingTool?branchName=master)](https://dev.azure.com/airband/Network%20Monitoring%20for%20ISPs/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/airband/Komal/_release?_a=releases&view=mine&definitionId=4)](https://dev.azure.com/airband/Komal/_releaseProgress?_a=release-pipeline-progress&releaseId=84)
 
