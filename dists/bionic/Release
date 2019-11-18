@@ -1,0 +1,19 @@
+Origin: PingAsync Demo
+Label: pingtool
+Codename: bionic
+Date: Mon, 18 Nov 2019 20:02:18 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ b4bb809fd7901bb924ef669a66d33ce2 728 main/binary-amd64/Packages
+ 5fcc5500d61beeb8f09092c4490d2fb0 498 main/binary-amd64/Packages.gz
+ 418214761f247978c4b82424d430c052 108 main/binary-amd64/Release
+SHA1:
+ c3c4ac80c403c758bd2c443c18e95531007f8609 728 main/binary-amd64/Packages
+ aa2f4ddc2caee3eba3345fdc9d41a292112a8ee2 498 main/binary-amd64/Packages.gz
+ 14dfe23cf8ffef44d029e66f2823e03b2cde9d01 108 main/binary-amd64/Release
+SHA256:
+ 8f42ef9b9b569bf4a2cade0be231bb52a374191794d96bed18457493f949219a 728 main/binary-amd64/Packages
+ 115201091395ee9c8ee1645b27a152261136d5d5ec9754f4a7d5a2bcbdc222e6 498 main/binary-amd64/Packages.gz
+ 29aaa69859596b03e13efe66ba5c09872140c4f4b4cb3e1b1c77359380f03c52 108 main/binary-amd64/Release

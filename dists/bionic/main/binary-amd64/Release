@@ -1,0 +1,5 @@
+Component: main
+Origin: PingAsync Demo
+Label: pingtool
+Architecture: amd64
+Description: Personal repository

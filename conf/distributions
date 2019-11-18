@@ -1,0 +1,7 @@
+Origin: PingAsync Demo
+Label: pingtool
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: 2E9E73303488F5D1
